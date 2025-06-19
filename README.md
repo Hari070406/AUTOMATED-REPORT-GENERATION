@@ -19,3 +19,5 @@ This project is focused on developing a Python script that reads data from a fil
 Overall, this was a simple but very useful project for a beginner like me to understand how programming can be used for real-world reporting tasks.
 
 *OUTPUT OF THE TASK*
+
+![Image](https://github.com/user-attachments/assets/0fa48789-2a06-4881-a765-24bc7fb8c132)
